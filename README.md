@@ -1,3 +1,6 @@
+![스크린샷, 2023-06-14 09-44-13](https://github.com/mrpumpkin98/CodeCamp_Class/assets/114569429/fc4c04b5-1832-4feb-a4c5-3afa55d59aa1)
+
+
 # Team10_exercise
 ## 10팀 팀원명 | 블로그 | 실습 리파지토리 주소입니다.
 
