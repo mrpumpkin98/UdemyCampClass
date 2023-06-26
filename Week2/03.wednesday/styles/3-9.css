@@ -1,8 +1,0 @@
-* {
-  box-sizing: border-box;
-}
-
-div {
-  position: static;
-  border: 3px solid #73ad21;
-}
